@@ -3,8 +3,8 @@
     <appName>JustChinese</appName>
     <appDescription>独一无二的中文老师</appDescription>
     <packageName>com.jc.justchinese</packageName>
-    <versionCode>1</versionCode>
-    <versionName>1</versionName>
+    <versionCode>2</versionCode>
+    <versionName>1.0</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
     <apkUrl>https://rawgit.com/JustChinese/JustChinese/master/apk/com.jc.justchinese-v1.0.apk</apkUrl>
