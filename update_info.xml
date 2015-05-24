@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <appName>JustChinese</appName>
+    <appDescription>独一无二的中文老师</appDescription>
+    <packageName>com.jc.justchinese</packageName>
+    <versionCode>1.0</versionCode>
+    <versionName>1.0</versionName>
+    <forceUpdate>false</forceUpdate>
+    <autoUpdate>false</autoUpdate>
+    <apkUrl>https://rawgit.com/JustChinese/JustChinese/master/apk/com.jc.justchinese-v1.0.apk</apkUrl>
+    <updateTips>
+        <default>update tips</default>
+        <en>First Test Version V1.0</en>
+        <zh>首发版本\n内部测试1.0版本</zh>
+        <zh_CN>首发版本\n内部测试1.0版本</zh_CN>
+        <zh_TW>首发版本\n内部测试1.0版本</zh_TW>
+        <zh_HK>首发版本\n内部测试1.0版本</zh_HK>
+    </updateTips>
+</updateInfo>
